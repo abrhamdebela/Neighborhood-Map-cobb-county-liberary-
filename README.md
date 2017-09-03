@@ -1,0 +1,2 @@
+# Neighborhood-Map-cobb-county-liberary-
+he app allow the filliter function,when you   write the first letter of the liberary name on the filter location it sort out the liberary name and  it displays the locations on the map.  extra info is popup when we clicked each locations. the popup include the detail address and its API as well. The app is responsive, too!  It resizes using CSS Flexbox and media queries.   It can also recalibrate itself based on your screen size. check the try resizing the window!
